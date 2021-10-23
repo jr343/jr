@@ -2,7 +2,7 @@
 <b> RUCHI BOT</b>
 </h1>
 
-[![MYSTERIOUSBOT](https://telegra.ph/file/c2d5f8f0d0f2fc84ac87a.jpg)](https://github.com/RUCHI-OS/RUCHIBOT)
+[![RUCHIBOT](https://telegra.ph/file/1aa73f560fdd4dd6ad370.jpg)](https://github.com/jr343/RUCHIBOT)
 
 
 <p align="center">
